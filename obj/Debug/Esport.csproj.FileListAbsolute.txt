@@ -1,0 +1,14 @@
+E:\docs\c#\Esport\bin\Debug\Esport.exe.config
+E:\docs\c#\Esport\bin\Debug\Esport.exe
+E:\docs\c#\Esport\bin\Debug\Esport.pdb
+E:\docs\c#\Esport\obj\Debug\Esport.csproj.AssemblyReference.cache
+E:\docs\c#\Esport\obj\Debug\Esport.csproj.SuggestedBindingRedirects.cache
+E:\docs\c#\Esport\obj\Debug\Esport.Properties.Resources.resources
+E:\docs\c#\Esport\obj\Debug\Esport.TeamForm.resources
+E:\docs\c#\Esport\obj\Debug\Esport.csproj.GenerateResource.cache
+E:\docs\c#\Esport\obj\Debug\Esport.csproj.CoreCompileInputs.cache
+E:\docs\c#\Esport\obj\Debug\Esport.exe
+E:\docs\c#\Esport\obj\Debug\Esport.pdb
+E:\docs\c#\Esport\obj\Debug\Esport.AddTeamForm.resources
+E:\docs\c#\Esport\obj\Debug\Esport.AddPlayerForm.resources
+E:\docs\c#\Esport\obj\Debug\Esport.PlayerForm.resources
